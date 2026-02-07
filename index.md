@@ -3,7 +3,7 @@ layout: default
 title: Головна
 ---
 
-[Deutsch🇩🇪](/de/index/) | [English🇬🇧](/en/index/)
+[Deutsch🇩🇪](/de/index.html) | [English🇬🇧](/en/index.html)
 
 # Вітаємо в Leipzig
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Main
+title: Main page
 ---
 
-[Українська🇺🇦](/de/index/) | [Deutsch🇩🇪](/de/index/)
+[Українська🇺🇦](/de/index.html) | [Deutsch🇩🇪](/de/index.html)
 
 # Welcome in Leipzig
 

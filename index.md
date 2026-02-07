@@ -3,6 +3,8 @@ layout: default
 title: Головна
 ---
 
+[Deutsch🇩🇪](/de/index/) | [English🇬🇧](/en/index/)
+
 # Вітаємо в Leipzig
 
 Цей портал створено для допомоги українцям, які планують вступ до ВНЗ.

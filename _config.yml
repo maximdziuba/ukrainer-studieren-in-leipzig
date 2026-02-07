@@ -1,0 +1,8 @@
+title: Вступ до вищих навчальних закладів в Лейпцигу для українців
+description: Інформаційний портал про вищу освіту в Лейпцигу для українських студентів
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+
+header_pages:
+ - index.md

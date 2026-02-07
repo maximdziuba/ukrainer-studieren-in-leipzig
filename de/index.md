@@ -3,7 +3,7 @@ layout: default
 title: Hauptseite
 --- 
 
-[Українська🇺🇦](./de/index.html) | [English🇬🇧](./en/index.html)
+[Українська🇺🇦](../de/index.html) | [English🇬🇧](../en/index.html)
 
 
 # Willkommen Leipzig

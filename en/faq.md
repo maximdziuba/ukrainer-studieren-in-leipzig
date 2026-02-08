@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Main page
+title: FAQ
 ---
 
-[Українська🇺🇦](../index.html) | [Deutsch🇩🇪](../de/index.html)
+[Українська🇺🇦](../faq.html) | [Deutsch🇩🇪](../de/faq.html)
 
 # Welcome in Leipzig
 
-This portal was created to help ukrainians, who want to study at universitites in Leipzig.
+FAQ
 
 ## Pages
 * [Studienkolleg](./studienkolleg.html)

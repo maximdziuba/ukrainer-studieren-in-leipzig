@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Головна
+title: FAQ
 ---
 
-[Deutsch🇩🇪](./de/index.html) | [English🇬🇧](./en/index.html)
+[Deutsch🇩🇪](./de/faq.html) | [English🇬🇧](./en/faq.html)
 
 # Вітаємо в Leipzig
 
-Цей портал створено для допомоги українцям, які планують вступ до ВНЗ.
+Часто питають
 
 ## Основні розділи
 * [Studienkolleg](./studienkolleg.html)

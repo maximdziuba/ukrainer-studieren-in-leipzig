@@ -11,6 +11,7 @@ title: Hauptseite
 Dieses Portal wurde erstellt, um den Ukrainern zu helfen, die an den Universitäten in Leipzig studieren wollen.
 
 ## Seiten
+* [Studienkolleg](./studienkolleg.html)
 * [Universität](./university.html)
 * [Hochschule](./hochschule.html)
 * [FAQ](./faq.html)

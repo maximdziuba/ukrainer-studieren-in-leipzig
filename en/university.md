@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Університет Leipzig
+title: University of Leipzig
 ---
+
+[Українська🇺🇦](../university.html) | [Deutsch🇩🇪](../de/university.html)
 
 # University of Leipzig
 
